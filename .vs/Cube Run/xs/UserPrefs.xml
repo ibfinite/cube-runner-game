@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{5422C09F-002E-B856-9A42-E97D21316EE9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/bottomColliderScript.cs">
+    <Files>
+      <File FileName="Assets/PlayerMovement.cs" Line="48" Column="1" />
+      <File FileName="Assets/FollowPlayer.cs" />
+      <File FileName="Assets/PlayerCollision.cs" Line="14" Column="13" />
+      <File FileName="Assets/Scoring.cs" />
+      <File FileName="Assets/LogicScript.cs" Line="16" Column="45" />
+      <File FileName="Assets/FinishScript.cs" Line="11" Column="31" />
+      <File FileName="Assets/bottomColliderScript.cs" Line="11" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1453149b-c8b9-425f-93a9-676c4c48b45e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
