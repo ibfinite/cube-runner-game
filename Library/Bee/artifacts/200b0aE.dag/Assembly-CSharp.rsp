@@ -346,13 +346,15 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/bottomColliderScript.cs"
-"Assets/FinishScript.cs"
-"Assets/FollowPlayer.cs"
-"Assets/LogicScript.cs"
-"Assets/PlayerCollision.cs"
-"Assets/PlayerMovement.cs"
-"Assets/Scoring.cs"
+"Assets/Scripts/AudioManagerScript.cs"
+"Assets/Scripts/bottomColliderScript.cs"
+"Assets/Scripts/FinishScript.cs"
+"Assets/Scripts/FollowPlayer.cs"
+"Assets/Scripts/LogicScript.cs"
+"Assets/Scripts/PlayerCollision.cs"
+"Assets/Scripts/PlayerMovement.cs"
+"Assets/Scripts/Scoring.cs"
+"Assets/Scripts/Sound.cs"
 -langversion:9.0
 
 /deterministic
