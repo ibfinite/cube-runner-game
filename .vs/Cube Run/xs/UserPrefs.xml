@@ -1,18 +1,17 @@
 ﻿<Properties StartupConfiguration="{5422C09F-002E-B856-9A42-E97D21316EE9}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/bottomColliderScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerMovement.cs">
     <Files>
-      <File FileName="Assets/PlayerMovement.cs" Line="48" Column="1" />
-      <File FileName="Assets/FollowPlayer.cs" />
-      <File FileName="Assets/PlayerCollision.cs" Line="14" Column="13" />
-      <File FileName="Assets/Scoring.cs" />
-      <File FileName="Assets/LogicScript.cs" Line="16" Column="45" />
-      <File FileName="Assets/FinishScript.cs" Line="11" Column="31" />
-      <File FileName="Assets/bottomColliderScript.cs" Line="11" Column="36" />
+      <File FileName="Assets/Scripts/Sound.cs" Line="14" Column="24" />
+      <File FileName="Assets/Scripts/AudioManagerScript.cs" Line="27" Column="20" />
+      <File FileName="Assets/Scripts/FinishScript.cs" Line="12" Column="9" />
+      <File FileName="Assets/Scripts/PlayerCollision.cs" Line="13" Column="63" />
+      <File FileName="Assets/Scripts/LogicScript.cs" Line="21" Column="40" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="44" Column="59" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1453149b-c8b9-425f-93a9-676c4c48b45e" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e823c243-4577-4ca2-b5e3-735544b25426" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
